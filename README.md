@@ -26,7 +26,7 @@ just a collection of links and commands
 ``` ls ``` list the files of the current directory   
 ``` ls -a ``` list all (also the hidden) files or the current directory   
 ``` ls -l ``` list the files with permissions and some information  
-``` ls \*.png ``` list only the png files   
+``` ls *.png ``` list only the png files   
 ``` cd Desktop ``` go to the Desktop folder (if it is included in the current directory)  
 ``` mkdir samplefiles ``` make a directory with the name 'samplefiles'  
 ``` cd samplefiles ``` go into the directory named samplefiles   
