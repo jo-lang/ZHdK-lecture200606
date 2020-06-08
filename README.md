@@ -13,7 +13,7 @@ just a collection of links and commands
 [p5.js](https://p5js.org/)  
 [Scripting in InDesign](https://yearbook.github.io/esdocs/#/)  
 [Twitter API](https://developer.twitter.com/en/docs/api-reference-index)  
-[Build a twitter bot with tweepy](https://realpython.com/twitter-bot-python-tweepy/)  
+[Build a twitter bot with tweepy](https://realpython.com/twitter-bot-python-tweepy/) like the [spezimen text](https://twitter.com/spezimenText) and [cellular automaton](https://twitter.com/c_a_bot) examples    
 [Raspberry pi](https://www.raspberrypi.org/)
 
 ## Some commands for the terminal
@@ -35,5 +35,5 @@ just a collection of links and commands
 ``` head textfile.txt ``` print the first 10 lines of the file   
 ``` tail textfile.txt ``` print the last 10 lines of the file   
 ``` nano textfile.txt ``` open the file in the nano editor  
-``` sort textfile.txt > sorted.txt  ``` sort the file alphabetically and it into a new file called sorted.txt  
+``` sort textfile.txt > sorted.txt ``` sort the file alphabetically and save it into a new file called sorted.txt  
 
