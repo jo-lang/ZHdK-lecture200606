@@ -18,7 +18,7 @@ just a collection of links and commands
 
 ## Some commands for the terminal
 ``` say hello world ``` let the computer talk  
-``` seq 1000 | say ``` Count to 1000, to cancel the process hit: <kbd>Ctrl</kbd> + <kbd>C</kbd>
+``` seq 1000 | say ``` Count to 1000, to cancel the process hit: <kbd>Ctrl</kbd> + <kbd>C</kbd>  
 ``` date ``` Print the current date  
 ``` cal ``` print the current month  
 ``` cal -y 2025 ``` print the calendar for the year 2025  
