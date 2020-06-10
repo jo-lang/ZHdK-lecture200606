@@ -18,7 +18,7 @@ just a collection of links and commands
 
 ## Some commands for the terminal
 ``` say hello world ``` let the computer talk  
-``` seq 1000 | say ``` Count to 1000, to cancel the process hit:  ctrl + C  
+``` seq 1000 | say ``` Count to 1000, to cancel the process hit: <kbd>Ctrl</kbd> + <kbd>C</kbd>
 ``` date ``` Print the current date  
 ``` cal ``` print the current month  
 ``` cal -y 2025 ``` print the calendar for the year 2025  
@@ -30,7 +30,7 @@ just a collection of links and commands
 ``` cd Desktop ``` go to the Desktop folder (if it is included in the current directory)  
 ``` mkdir samplefiles ``` make a directory with the name 'samplefiles'  
 ``` cd samplefiles ``` go into the directory named samplefiles   
-``` > textfile.txt ``` make an (empty) text file called textfiles  
+``` > textfile.txt ``` make an (empty) text file called textfile  
 ``` open textfile.txt ``` open the textfile.txt  
 ``` head textfile.txt ``` print the first 10 lines of the file   
 ``` tail textfile.txt ``` print the last 10 lines of the file   
