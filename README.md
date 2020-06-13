@@ -6,6 +6,8 @@ just a collection of links and commands
 [Automation](https://xkcd.com/1319/) by xkcd  
 [QA engineering](https://twitter.com/brenankeller/status/1068615953989087232?lang=en)  
 [Automatic soap](https://twitter.com/nke_ise/status/897756900753891328)  
+[When I was 4, my sister was 2. I am now 44. How old is my sister?](https://www.quora.com/When-I-was-4-my-sister-was-2-I-am-now-44-How-old-is-my-sister)  
+
 
 ## Tools 
 [Drawbot](https://www.drawbot.com/)  
